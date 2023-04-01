@@ -1,0 +1,19 @@
+{
+  "name": "exel-course",
+  "version": "1.0.0",
+  "description": "JS Pure JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnf1234567892112/exel-course.git"
+  },
+  "author": "Hojiev Durandesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnf1234567892112/exel-course/issues"
+  },
+  "homepage": "https://github.com/dnf1234567892112/exel-course#readme"
+}
