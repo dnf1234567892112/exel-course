@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/dnf1234567892112/exel-course/issues"
   },
-  "homepage": "https://github.com/dnf1234567892112/exel-course#readme"
+  "homepage": "https://github.com/dnf1234567892112/exel-course#readme",
+  "private": "true"
 }
